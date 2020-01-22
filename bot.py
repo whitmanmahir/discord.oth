@@ -55,7 +55,7 @@ async def on_message(message):
     if "how are you botyyy" in message.content.lower():
         await message.channel.send(f'I am good thanks, for asking')
 
-    if "nigga" in message.content.lower():
+    if "idk do whatever you want here" in message.content.lower():
         await message.channel.send(f"DON'T SAY THAT WORD :face_with_symbols_over_mouth:")
         
 
@@ -123,4 +123,4 @@ async def unban(ctx, *, member):
 
 
 
-client.run('NjY4MDU4Nzk2NzY5NDExMDgy.XiWWBQ.IdZSU532BXvZ2__oRfepW-ykBJM')
+client.run('token')
