@@ -1,1 +1,1 @@
-This is my first time posting so you are free to hate
+Nothing much really just a basic Discord bot using Discord.py in python
